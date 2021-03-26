@@ -1,4 +1,4 @@
-![](docs/img/logo.png)
+![](docs/img/logo-big.png)
 
 # DigitalHub™ Community Assets
 
