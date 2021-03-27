@@ -20,8 +20,8 @@ Pull requests are the best way to propose changes to the repository (we use [Git
 5. Ensure that all code cells pass and runs successfully
 6. Issue that pull request!
 
-## Report Bugs and Initialize Discussion on Notebooks Using Github's [Issues](https://github.com/Integradas/DigitalHubCommunity/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/Integradas/DigitalHubCommunity/issues/new); it's that easy! For discussions please ensure to follow our code of conducts and let our community thrive with positive energy!
+## Report Bugs and Using Github's [Issues](https://github.com/Integradas/DigitalHubCommunity/issues)
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/Integradas/DigitalHubCommunity/issues/new); it's that easy!
 
 ## Write bug reports with detail, background, and sample code
 
@@ -35,6 +35,9 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 - What actually happens
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
 
+## Discuss with the Community In Github's [Discussions](https://github.com/Integradas/DigitalHubCommunity/discussions)
+We use GitHub discussions for everyone to have conversations, ask questions and post answers without opening issues. Simply [open a new discussion](https://github.com/Integradas/DigitalHubCommunity/discussions/new) to start conversion on any notebook resources, data science techniques, or the Digital Hub platform. Please ensure to follow our code of conducts and let our community thrive with positive energy!
+For even more connection in the Digital Hub community, join us at https://community.digitalhub.io/. 
 
 ## Notebooks and Data
 Contribution to existing notebooks would be subjected to the author's and our maintainers' review prior to merging. If the author can not be contacted, then our maintainers will hold the rights to make the decision. 
