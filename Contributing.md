@@ -10,8 +10,8 @@ Digital Hub welcomes all contributing and collaborating efforts! We hope to stre
 ## We Develop with Github
 We use github to host code, notebooks, sample datasets, track issues and discuessions, as well as accept pull requests.
 
-## We Use [Github Flow](https://guides.github.com/introduction/flow/index.html), So All Code Changes Happen Through Pull Requests
-Pull requests are the best way to propose changes to the codebase (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
+## All Changes Happen Through Pull Requests
+Pull requests are the best way to propose changes to the repository (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
 
 1. Fork the repo and create your branch from `main`.
 2. If you've added notebooks, please indicates requirements and library dependencies at the top of the notebook
@@ -20,11 +20,8 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 5. Ensure that all code cells pass and runs successfully
 6. Issue that pull request!
 
-## Any contributions you make will be under the MIT Software License
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
-
-## Report bugs and initialize discussion on notebooks using Github's [issues](https://github.com/Integradas/DigitalHubCommunity/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/Integradas/DigitalHubCommunity/issues/new); it's that easy! Please ensure to follow our code of conducts and let our community thrive with positive energy!
+## Report Bugs and Initialize Discussion on Notebooks Using Github's [Issues](https://github.com/Integradas/DigitalHubCommunity/issues)
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/Integradas/DigitalHubCommunity/issues/new); it's that easy! For discussions please ensure to follow our code of conducts and let our community thrive with positive energy!
 
 ## Write bug reports with detail, background, and sample code
 
@@ -45,7 +42,7 @@ Contribution to existing notebooks would be subjected to the author's and our ma
 All data submitted into the repository would be made public. Please ensure no sensitive information is contained within the data. We will not be obligated to data confidentiality. 
 
 ## License
-By contributing, you agree that your contributions will be licensed under its MIT License.
+By contributing, you agree that your contributions will be licensed under [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
 ## References
 This document was adapted from the open-source contribution guidelines created by[
