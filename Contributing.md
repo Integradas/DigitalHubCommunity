@@ -14,11 +14,13 @@ We use github to host code, notebooks, sample datasets, track issues and discues
 Pull requests are the best way to propose changes to the repository (we use [Github Flow](https://guides.github.com/introduction/flow/index.html)). We actively welcome your pull requests:
 
 1. Fork the repo and create your branch from `main`.
-2. If you've added notebooks, please indicates requirements and library dependencies at the top of the notebook
-3. Ensure that image files, and datasets are placed in proper directories
-4. Ensure code within notebooks abides to proper coding conventions
-5. Ensure that all code cells pass and runs successfully
-6. Issue that pull request!
+2. Place notebooks in the `notebooks/` directory
+3. If you've added notebooks, please indicates requirements and library dependencies at the top of the notebook
+4. Place image files in `notebooks/img/` directory and follow `<notebook-name>_<image-name>` as the nameing convention
+5. Place data files in `notebooks/data/` directory and follow `<notebook-name>_<image-name>` as naming convention
+6. Ensure code within notebooks abides to proper coding conventions
+7. Ensure that all code cells pass and runs successfully
+8. Issue that pull request!
 
 ## Report Bugs and Using Github's [Issues](https://github.com/Integradas/DigitalHubCommunity/issues)
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/Integradas/DigitalHubCommunity/issues/new); it's that easy!
